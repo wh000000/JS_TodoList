@@ -1,5 +1,3 @@
-alert("hi")
-
 const a = 10;
 const b = 2
 let myName = "ingyu";
